@@ -29,7 +29,7 @@ def load_api_keys():
             os.environ['GROQ_API_KEY'] = api_keys['GROQ_API_KEY']
             os.environ['NOMIC_API_KEY'] = api_keys['NOMIC_API_KEY']
     except FileNotFoundError:
-        st.warning("API keys file not found. Falling back to environment variables.")
+        st.warning("API keys JSON file not found. Falling back to environment variables from GitHub Secrets.")
 
     # Retrieve from environment variables
     GROQ_API_KEY = os.getenv("GROQ_API_KEY")
