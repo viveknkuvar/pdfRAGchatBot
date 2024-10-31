@@ -11,7 +11,7 @@ PDF_RAG_ChatBot is an application that uses Retrieval-Augmented Generation (RAG)
 
 ## Live Demo
 
-You can try the application live at: [PDF RAG ChatBot](your_deployed_link)
+You can try the application live at: [PDF RAG ChatBot](https://pdf-rag-chatbot-vk.streamlit.app/)
 
 ## Getting Started
 
