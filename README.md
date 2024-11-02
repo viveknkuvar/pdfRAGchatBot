@@ -2,6 +2,18 @@
 
 PDF_RAG_ChatBot is an application that uses Retrieval-Augmented Generation (RAG) architecture, enabling users to ask questions about the content of uploaded PDF documents and receive accurate responses. This project leverages the Groq API for language processing and is designed to be an easy-to-use solution for document-based Q&A tasks.
 
+## Table of Contents
+
+- [Features](#features)
+- [Live Demo](#live-demo)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
 ## Features
 
 - **PDF Upload**: Easily upload PDF files for analysis.
