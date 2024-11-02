@@ -67,4 +67,4 @@ PDF_RAG_ChatBot is an application that uses Retrieval-Augmented Generation (RAG)
 
 ## Contact
 
-- For any inquiries, please reach out to me at [viveknk777@gmail.com].
+- For any inquiries, please reach out to me at viveknk777@gmail.com.
