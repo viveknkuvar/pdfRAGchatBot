@@ -23,7 +23,7 @@ PDF_RAG_ChatBot is an application that uses Retrieval-Augmented Generation (RAG)
 
 ## Live Demo
 
-You can try the application live at: [PDF RAG ChatBot](https://pdf-rag-chatbot-vnk.streamlit.app/)
+- You can try the application live at: [PDF RAG ChatBot](https://pdf-rag-chatbot-vnk.streamlit.app/)
 
 ## Getting Started
 
@@ -58,7 +58,7 @@ You can try the application live at: [PDF RAG ChatBot](https://pdf-rag-chatbot-v
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit a pull request or open an issue for any suggestions or improvements.
+- Contributions are welcome! Feel free to submit a pull request or open an issue for any suggestions or improvements.
 
 ## Acknowledgements
 
@@ -67,4 +67,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
 ## Contact
 
-For any inquiries, please reach out to me at [viveknk777@gmail.com].
+- For any inquiries, please reach out to me at [viveknk777@gmail.com].
