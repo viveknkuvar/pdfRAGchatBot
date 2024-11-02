@@ -34,7 +34,7 @@ You can try the application live at: [PDF RAG ChatBot](https://pdf-rag-chatbot-v
    ```bash
    pip install -r requirements.txt
    ```
-4. Add your own Groq and Nomic API keys in the api_key.json file
+4. Add your own Groq and Nomic API keys in the api_keys.json file
 
 ## Usage
 
